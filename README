@@ -1,4 +1,12 @@
-This is your new Play 2.1 application
+VESTARO
 =====================================
+Description:
+```
+Clothing recommender system with e-commerce functionality.
+```
 
-This file will be packaged with your application, when using `play dist`.
+To run it locally with jetty:
+```
+mvn jetty:run
+```
+And go to **http://localhost:8080** in your browser.
