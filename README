@@ -5,8 +5,8 @@ Description:
 Clothing recommender system with e-commerce functionality.
 ```
 
-To run it locally with jetty:
+To run it locally with play:
 ```
-mvn jetty:run
+play run
 ```
-And go to **http://localhost:8080** in your browser.
+And go to **http://localhost:9000** in your browser.
