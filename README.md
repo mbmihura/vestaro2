@@ -1,12 +1,12 @@
 VESTARO
 =====================================
-Description:
+Descripción:
 ```
-Clothing recommender system with e-commerce functionality.
+Aplicación Web para recomendación de vestimenta con funcionalidad e-commerce.
 ```
 
-To run it locally with play:
+Para ejecutar localmente Play!:
 ```
 play ~run
 ```
-And go to **http://localhost:9000** in your browser.
+Ir a **http://localhost:9000** en el browser browser.
