@@ -7,6 +7,6 @@ Clothing recommender system with e-commerce functionality.
 
 To run it locally with play:
 ```
-play run
+play ~run
 ```
 And go to **http://localhost:9000** in your browser.
