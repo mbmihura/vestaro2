@@ -3,7 +3,7 @@
 # ~~~~
 
 # Home page
-GET     /helloworld                 controllers.Application.helloworld()
+GET     /aboutplay                 controllers.Application.helloworld()
 GET     /                           controllers.Application.index()
 
 # Map static resources from the /public folder to the /assets URL path

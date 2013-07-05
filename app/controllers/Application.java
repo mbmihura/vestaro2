@@ -12,6 +12,6 @@ public class Application extends Controller {
     }
   
   	public static Result helloworld() {
-        return ok(playTemplate.render("Your new application is ready."));
+        return ok(aboutPlay.render("Your new application is ready."));
     }
 }
