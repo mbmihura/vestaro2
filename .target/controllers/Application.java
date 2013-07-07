@@ -3,8 +3,7 @@ package controllers;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import models.User;
-import play.Routes;
+import models.User;import play.Routes;
 import play.data.Form;
 import play.mvc.*;
 import play.mvc.Http.Response;
